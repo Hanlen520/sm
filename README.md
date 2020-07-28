@@ -33,6 +33,3 @@ ems.xls是用例文件，conf.ini是配置文件，sm.exe是客户端，其他�
 1，可执行单个接口、多个接口或全部接口，
 2，定时任务、发送邮件
 3，JSON解析
-————————————————
-版权声明：本文为CSDN博主「sudichunxiao817」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/sudichunxiao817/java/article/details/106103298
